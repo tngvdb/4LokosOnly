@@ -1,2 +1,0 @@
-/*This file manages execution flow.
-Here we will update phsyics, render frames, and track game states such as Main Menu, Pause Menu, Playing, and Game Over*/
