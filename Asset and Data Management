@@ -1,0 +1,3 @@
+/* This file holds Asset and Data Management
+It's purpose is to load, unload, and cache textures, audios, and levels.
+It will also separate game data (such as stats and text) from code using JSON or spreadsheets.*/
